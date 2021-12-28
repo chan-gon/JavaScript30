@@ -2,7 +2,7 @@
 
 This is the repository for [Wes Bos's JavaScript30](https://javascript30.com/)  
 
-Learning Maketh Man
+Learning maketh a man
 
 # Project
 
