@@ -12,5 +12,6 @@ Learning maketh a man
 * [JS Drum Kit](https://github.com/chan-gon/JavaScript30/tree/master/DrumKit)
 * [JS Clock](https://github.com/chan-gon/JavaScript30/tree/master/Clock)
 * [Update CSS Variables with JS](https://github.com/chan-gon/JavaScript30/tree/master/CSSVariableWithJS)
+* [Array Cardio](https://github.com/chan-gon/JavaScript30/tree/master/Array%20Cardio%20Day)
 
 </details>
