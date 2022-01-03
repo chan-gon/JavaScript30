@@ -6,4 +6,4 @@ This is the first project of [Wes Bos's JavaScript30](https://javascript30.com/)
 
 Learn how to handle flex property.
 
-![이미지](./readme.png)
+![이미지](./image/readme.png)

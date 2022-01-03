@@ -13,5 +13,6 @@ Learning maketh a man
 * [JS Clock](https://github.com/chan-gon/JavaScript30/tree/master/Clock)
 * [Update CSS Variables with JS](https://github.com/chan-gon/JavaScript30/tree/master/CSSVariableWithJS)
 * [Array Cardio](https://github.com/chan-gon/JavaScript30/tree/master/Array%20Cardio%20Day)
+* [Flex Panels Image Gallery](https://github.com/chan-gon/JavaScript30/tree/master/Flex%20Panels%20Image%20Gallery)
 
 </details>
