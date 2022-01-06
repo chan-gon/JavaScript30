@@ -16,5 +16,6 @@ Learning maketh a man
 * [Flex Panels Image Gallery](https://github.com/chan-gon/JavaScript30/tree/master/Flex%20Panels%20Image%20Gallery)
 * [Ajax Type Ahead](https://github.com/chan-gon/JavaScript30/tree/master/Ajax%20Type%20Ahead)
 * [Array Cardio Day 2](https://github.com/chan-gon/JavaScript30/tree/master/Array%20Cardio%20Day%202)
+* [HTML5 Canvas](https://github.com/chan-gon/JavaScript30/tree/master/HTML5%20Canvas)
 
 </details>
