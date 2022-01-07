@@ -17,5 +17,6 @@ Learning maketh a man
 * [Ajax Type Ahead](https://github.com/chan-gon/JavaScript30/tree/master/Ajax%20Type%20Ahead)
 * [Array Cardio Day 2](https://github.com/chan-gon/JavaScript30/tree/master/Array%20Cardio%20Day%202)
 * [HTML5 Canvas](https://github.com/chan-gon/JavaScript30/tree/master/HTML5%20Canvas)
+* [Console Tricks](https://github.com/chan-gon/JavaScript30/tree/master/Console%20Tricks)
 
 </details>
