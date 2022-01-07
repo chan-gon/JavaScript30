@@ -14,7 +14,7 @@ Learn how to handle console.
 - Testing | console.assert(1 === 2, 'That is false');
 - Clear | console.clear();
 - Viewing DOM Elements | console.log(**Elements**); console.dir(**Elements**);
-- Grouping together | check out main.html
-- counting | check out main.html
-- timing | check out main.html
-- table | check out main.html
+- Grouping together | check out [main.html](https://github.com/chan-gon/JavaScript30/blob/master/Console%20Tricks/main.html)
+- counting | check out [main.html](https://github.com/chan-gon/JavaScript30/blob/master/Console%20Tricks/main.html)
+- timing | check out [main.html](https://github.com/chan-gon/JavaScript30/blob/master/Console%20Tricks/main.html)
+- table | check out [main.html](https://github.com/chan-gon/JavaScript30/blob/master/Console%20Tricks/main.html)
