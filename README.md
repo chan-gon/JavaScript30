@@ -18,5 +18,6 @@ Learning maketh a man
 * [Array Cardio Day 2](https://github.com/chan-gon/JavaScript30/tree/master/Array%20Cardio%20Day%202)
 * [HTML5 Canvas](https://github.com/chan-gon/JavaScript30/tree/master/HTML5%20Canvas)
 * [Console Tricks](https://github.com/chan-gon/JavaScript30/tree/master/Console%20Tricks)
+* [Hold Shift to Check Multiple Checkboxes](https://github.com/chan-gon/JavaScript30/tree/master/Hold%20Shift%20to%20Check%20Multiple%20Checkboxes)
 
 </details>
