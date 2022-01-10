@@ -20,5 +20,6 @@ Learning maketh a man
 * [Console Tricks](https://github.com/chan-gon/JavaScript30/tree/master/Console%20Tricks)
 * [Hold Shift to Check Multiple Checkboxes](https://github.com/chan-gon/JavaScript30/tree/master/Hold%20Shift%20to%20Check%20Multiple%20Checkboxes)
 * [HTML5 Custom Video Player](https://github.com/chan-gon/JavaScript30/tree/master/Custom%20HTML5%20Video%20Player)
+* [Key Detection(feat.Cornify)](https://github.com/chan-gon/JavaScript30/tree/master/Key%20Detection)
 
 </details>
