@@ -22,5 +22,6 @@ Learning maketh a man
 * [HTML5 Custom Video Player](https://github.com/chan-gon/JavaScript30/tree/master/Custom%20HTML5%20Video%20Player)
 * [Key Detection(feat.Cornify)](https://github.com/chan-gon/JavaScript30/tree/master/Key%20Detection)
 * [Slide In On Scroll](https://github.com/chan-gon/JavaScript30/tree/master/slide-in-on-scroll)
+* [Local Storage and Event Delegation](https://github.com/chan-gon/JavaScript30/tree/master/Local%20Storage%20and%20Event%20Delegation)
 
 </details>
