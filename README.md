@@ -26,8 +26,9 @@ Learning maketh a man
 * [Key Detection(feat.Cornify)](https://github.com/chan-gon/JavaScript30/tree/master/Key%20Detection)
 * [Local Storage and Event Delegation](https://github.com/chan-gon/JavaScript30/tree/master/Local%20Storage%20and%20Event%20Delegation)
 * [Native Speech Recognition](https://github.com/chan-gon/JavaScript30/tree/master/Native%20Speech%20Recognition)
-* [Slide In On Scroll](https://github.com/chan-gon/JavaScript30/tree/master/slide-in-on-scroll)
-* [Tally String Times with Reduce](https://github.com/chan-gon/JavaScript30/tree/master/Tally%20String%20Times%20with%20Reduce)
 * [Speech Synthesis](https://github.com/chan-gon/JavaScript30/tree/master/Speech%20Synthesis)
+* [Sticky Nav](https://github.com/chan-gon/JavaScript30/tree/master/Sticky%20Nav)
+* [Tally String Times with Reduce](https://github.com/chan-gon/JavaScript30/tree/master/Tally%20String%20Times%20with%20Reduce)
+* [Slide In On Scroll](https://github.com/chan-gon/JavaScript30/tree/master/slide-in-on-scroll)
 
 </details>
