@@ -31,5 +31,6 @@ Learning maketh a man
 * [Tally String Times with Reduce](https://github.com/chan-gon/JavaScript30/tree/master/Tally%20String%20Times%20with%20Reduce)
 * [Slide In On Scroll](https://github.com/chan-gon/JavaScript30/tree/master/slide-in-on-scroll)
 * [Event Capture,Propagation,Bubbling and Once](https://github.com/chan-gon/JavaScript30/tree/master/Event%20Capture%2CPropagation%2CBubbling%20and%20Once)
+* [Video Speed Controller UI](https://github.com/chan-gon/JavaScript30/tree/master/Video%20Speed%20Controller%20UI)
 
 </details>
