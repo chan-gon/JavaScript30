@@ -32,6 +32,7 @@ Learning maketh a man
 * [Slide In On Scroll](https://github.com/chan-gon/JavaScript30/tree/master/slide-in-on-scroll)
 * [Event Capture,Propagation,Bubbling and Once](https://github.com/chan-gon/JavaScript30/tree/master/Event%20Capture%2CPropagation%2CBubbling%20and%20Once)
 * [Video Speed Controller UI](https://github.com/chan-gon/JavaScript30/tree/master/Video%20Speed%20Controller%20UI)
+* [Click and Drag to Scroll](https://github.com/chan-gon/JavaScript30/tree/master/Click%20and%20Drag%20to%20Scroll)
 
 </details>
 
